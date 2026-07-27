@@ -10,125 +10,178 @@ Computer Engineering Student | Data Science & Generative AI Enthusiast
 
 ---
 
-## 👩‍💻 About Me
+# 👩‍💻 About Me
 
-🎓 Computer Engineering Student from Nepal
-
-💡 Passionate about **Data Science**, **Machine Learning**, and **Generative AI**
-
-💻 Full Stack Developer using **Django, React, Node.js, and Python**
-
-🚀 Interested in building AI-powered applications and solving real-world problems
-
-🌱 Currently learning **LLMs, RAG, Agentic AI, and Recommendation Systems**
+- 🎓 Computer Engineering Student from Nepal
+- 💡 Passionate about **Data Science**, **Machine Learning**, and **Generative AI**
+- 💻 Full Stack Developer using **Django, React, Node.js, and Python**
+- 🚀 Interested in building AI-powered applications and solving real-world problems
+- 🌱 Currently learning **LLMs, RAG, Agentic AI, and Recommendation Systems**
 
 ---
 
-## 🛠️ Tech Stack
+# 🛠️ Tech Stack
 
-### Languages
+## 💻 Languages
 
-<p>
-<img src="https://skillicons.dev/icons?i=python,js,html,css,c" />
-</p>
+<table>
+<tr>
+<td align="center">
+<img src="https://skillicons.dev/icons?i=python" width="55"/><br><b>Python</b>
+</td>
 
-### Frameworks & Libraries
+<td align="center">
+<img src="https://skillicons.dev/icons?i=js" width="55"/><br><b>JavaScript</b>
+</td>
 
-<p>
-<img src="https://skillicons.dev/icons?i=django,react,nodejs,fastapi" />
-</p>
+<td align="center">
+<img src="https://skillicons.dev/icons?i=html" width="55"/><br><b>HTML5</b>
+</td>
 
-### Tools
+<td align="center">
+<img src="https://skillicons.dev/icons?i=css" width="55"/><br><b>CSS3</b>
+</td>
 
-<p>
-<img src="https://skillicons.dev/icons?i=git,github,vscode,mysql,postman" />
-</p>
+<td align="center">
+<img src="https://skillicons.dev/icons?i=c" width="55"/><br><b>C</b>
+</td>
+</tr>
+</table>
+
+## ⚙️ Frameworks & Libraries
+
+<table>
+<tr>
+<td align="center">
+<img src="https://skillicons.dev/icons?i=django" width="55"/><br><b>Django</b>
+</td>
+
+<td align="center">
+<img src="https://skillicons.dev/icons?i=react" width="55"/><br><b>React</b>
+</td>
+
+<td align="center">
+<img src="https://skillicons.dev/icons?i=nodejs" width="55"/><br><b>Node.js</b>
+</td>
+
+<td align="center">
+<img src="https://skillicons.dev/icons?i=fastapi" width="55"/><br><b>FastAPI</b>
+</td>
+</tr>
+</table>
+
+## 🧰 Tools
+
+<table>
+<tr>
+<td align="center">
+<img src="https://skillicons.dev/icons?i=git" width="55"/><br><b>Git</b>
+</td>
+
+<td align="center">
+<img src="https://skillicons.dev/icons?i=github" width="55"/><br><b>GitHub</b>
+</td>
+
+<td align="center">
+<img src="https://skillicons.dev/icons?i=vscode" width="55"/><br><b>VS Code</b>
+</td>
+
+<td align="center">
+<img src="https://skillicons.dev/icons?i=mysql" width="55"/><br><b>MySQL</b>
+</td>
+
+<td align="center">
+<img src="https://skillicons.dev/icons?i=postman" width="55"/><br><b>Postman</b>
+</td>
+</tr>
+</table>
 
 ---
 
-## 📌 Featured Projects
+# 📌 Featured Projects
 
-### 🛒 TinyTrolley
+## 🛒 TinyTrolley
+
 **Mini E-Commerce Website**
 
 - Django REST Framework + React
+- User Authentication
 - Product Management
 - Shopping Cart
-- Authentication
 
-🔗 https://github.com/Aastha5799/mini_e-commerce_web_app
-
----
-
-### 📰 Fake News Detection
-
-Machine Learning project for detecting fake news using NLP techniques.
-
-🔗 https://github.com/Aastha5799/Fake_news_detection_datascience
+🔗 **Repository:**  
+https://github.com/Aastha5799/mini_e-commerce_web_app
 
 ---
 
-### 🧠 Profile Match
+## 📰 Fake News Detection
+
+Machine Learning project that detects fake news using Natural Language Processing.
+
+🔗 **Repository:**  
+https://github.com/Aastha5799/Fake_news_detection_datascience
+
+---
+
+## 🧠 Profile Match
 
 Semantic profile matching application built with FastAPI.
 
-🔗 https://github.com/Aastha5799/profile-match
+🔗 **Repository:**  
+https://github.com/Aastha5799/profile-match
 
 ---
 
-### ✅ Django To-Do List
+## ✅ Django To-Do List
 
-Simple task management application built using Django.
+Task management application built using Django.
 
-🔗 https://github.com/Aastha5799/TO-DO-LIST_DJANGO_PROJECT
+🔗 **Repository:**  
+https://github.com/Aastha5799/TO-DO-LIST_DJANGO_PROJECT
 
 ---
 
-
-
-## 🌟 Currently Exploring
+# 🌟 Currently Exploring
 
 - 🤖 Generative AI
-- 🧠 Retrieval-Augmented Generation (RAG)
-- 🔗 LangChain
+- 🧠 Large Language Models (LLMs)
+- 🔍 Retrieval-Augmented Generation (RAG)
 - 🛠️ Agentic AI
+- 🔗 LangChain
 - 📊 Data Science
 - 🧩 Recommendation Systems
 
 ---
 
-## 📈 GitHub Statistics
+# 📈 GitHub Statistics
 
 <p align="center">
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Aastha5799&show_icons=true&theme=tokyonight&hide_border=true" />
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aastha5799&layout=compact&theme=tokyonight&hide_border=true" />
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=Aastha5799&show_icons=true&theme=tokyonight&hide_border=true"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aastha5799&layout=compact&theme=tokyonight&hide_border=true"/>
 </p>
 
 <p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Aastha5799&theme=tokyonight&hide_border=true" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Aastha5799&theme=tokyonight&hide_border=true"/>
 </p>
-
 
 ---
 
 ## 📫 Connect With Me
 
-<p align="left">
-<a href="https://linkedin.com/in/aastha-mainali-9bbb01371">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
-<a href="mailto:aasthamainali5@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-
-<a href="https://aasthamainali.com.np">
-<img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=googlechrome&logoColor=white"/>
-</a>
+<p align="center">
+  <a href="https://www.linkedin.com/in/aastha-mainali-9bbb01371/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://mail.google.com/mail/?view=cm&fs=1&to=aasthamainali5@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://aasthamainali.com.np" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=googlechrome&logoColor=white" />
+  </a>
 </p>
 
 ---
 
 <p align="center">
-✨ Thanks for visiting my profile! ⭐ Feel free to explore my repositories and connect with me.
+✨ Thanks for visiting my profile! Feel free to explore my repositories and connect with me.
 </p>
